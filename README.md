@@ -1,5 +1,7 @@
 # NOD-Classifier
 
+Stack : Sentence-Transformers
+
 #### Problem Statement:
 Generating monthly appliance replacement reports is a time-consuming process, typically taking two days. The main challenge involves manually reading each observation and accurately classifying it under a pre-defined Nature of Defect (NOD) classification.
 
